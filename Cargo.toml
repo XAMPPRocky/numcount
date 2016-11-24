@@ -2,6 +2,10 @@
 name = "numcount"
 description = "Totals up numbers in files passed as arguments or stdin"
 version = "0.1.0"
-authors = ["Aaron Power <theaaronepower@gmail.com"]
+authors = ["Aaron Power <theaaronepower@gmail.com>"]
+repository = "https://github.com/Aaronepower/numcount.git"
+homepage = "https://github.com/Aaronepower/numcount"
+readme = "README.md"
+license = "MIT/Apache-2.0"
 
 [dependencies]
