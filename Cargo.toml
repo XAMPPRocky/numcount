@@ -1,0 +1,7 @@
+[package]
+name = "numcount"
+description = "Totals up numbers in files passed as arguments or stdin"
+version = "0.1.0"
+authors = ["Aaron Power <theaaronepower@gmail.com"]
+
+[dependencies]
