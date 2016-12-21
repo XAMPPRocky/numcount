@@ -1,4 +1,5 @@
 # numcount
+[![](https://tokei.rs/b1/github/Aaronepower/numcount)](https://github.com/Aaronepower/tokei)
 
 Adds up numbers in files line by line.
 
